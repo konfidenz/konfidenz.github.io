@@ -1,0 +1,47 @@
+<ul class="nav navbar-nav">
+    <li><a href="#top" class='active' onclick="change_css(event)">Home</a></li>
+    <li><a href="#people" onclick="change_css(event)">People</a></li>
+    <li><a href="#key-publications" onclick="change_css(event)">Publications</a></li>
+    <li><a href="#key-publications2" onclick="change_css(event)">Publications</a></li>
+<!--<li{% if page.url contains 'key-publications' %}class="active"{% endif %}><a href="#key-publications">Publications</a></li> -->
+</ul>
+4
+
+<script>
+function change_css(e)
+{
+    e = e || window.event;
+    var src = e.target || e.srcElement;
+    var a = Array.from(document.querySelectorAll('ul>li>a'));
+    for (i = 0; i < a.length; i++) {
+        if (a[i].href == src.href){
+            a[i].classList.add("active");
+            a[i].classList.remove("inactive");
+        } else {
+            a[i].classList.add("inactive");
+            a[i].classList.remove("active");
+        }
+    }
+}
+
+window.onscroll = function() {
+    var a = Array.from(document.querySelectorAll('ul>li>a'));
+    var pos = [0];
+    for (i = 1; i < a.length; i++) {
+        pos.push(document.getElementById(a[i].hash.substr(1)).getBoundingClientRect().top-153);
+//         console.log([a[i].hash.substr(1), i, pos[i], window.pageYOffset])
+    }
+    pos.push(99999)
+    for (i = 0; i < a.length; i++) {
+        if (((pos[i]<=0) && (pos[i+1]>0)) || ((i==0) && pos[i+1]>0)) {
+            a[i].classList.add("active");
+            a[i].classList.remove("inactive");
+        } else {
+            a[i].classList.add("inactive");
+            a[i].classList.remove("active");
+        }        
+        
+    }
+}
+
+</script>
