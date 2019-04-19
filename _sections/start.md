@@ -3,6 +3,7 @@
 # Set the display order for this section
 order: 1
 color: white
+textalign: justify
 # Specify the layout for this section
 include: section.html
 ---

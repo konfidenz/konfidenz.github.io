@@ -1,53 +1,87 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-{% seo %}
-  </head>
+<head>
+  <title>Confidence-based learning</title>
+  <meta charset="utf-8" />
+  <meta name="description" content="Research project on confidence-based learning." />
+  <meta name="author" content="Matthias Guggenmos" />
+  <meta name="keywords" content="matthias guggenmos, matthiasguggenmos, neuroscience, charite, berlin, sterzer, confidence, metacognition, weird, computational neuroscience, modeling, reinforcement learning" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->  
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/academicons.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/individualize.css?v=' | append: site.github.build_revision | relative_url }}">  
+<!--   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
+  <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-  <body><a name="top"></a>
+</head>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
-          {% endif %}
+<body>
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <!--<h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>-->
+  <!-- Header -->
+  <section id="header">
+    <header>
+      <span class="image titleimg"><img src="images/response_select.png" alt="" /></span>
+      <h1 id="logo"><a href="#">Confidence-based learning</a></h1>
+<!--       <p>Learning with confidence</p> -->
+    </header>
+    <nav id="nav">
+      <ul>
+        <li><a href="#start" class="active">Idea</a></li>
+        <li><a href="#people">People</a></li>
+        <li><a href="#publications">Publications</a></li>
+      </ul>
+    </nav>
+    <footer>
+      <ul class="icons">
+        <li><a href="https://github.com/konfidenz" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
+        <li><a href="mailto:matthias.guggenmos@charite.de" class="icon fa-envelope"><span class="label">Email</span></a></li>
+        <li><a href="https://scholar.google.com/citations?user=QOa7WqcAAAAJ" style="border:none" class="ai ai-google-scholar ai-1x" target="_blank"></a></li>
+        <li><a href="https://www.researchgate.net/profile/Matthias_Guggenmos" style="border:none" class="ai ai-researchgate ai-1x" target="_blank"></a></li>
+<!--         <li><a href="https://twitter.com/" class="icon fa-twitter"><span class="label">Twitter</span></a></li> -->
+      </ul>
+    </footer>
+  </section>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-    {% comment %}
-    {% include simple-menu.html %}
-    {% endcomment %}
-        </header>
-    </div>
+  <!-- Wrapper -->
+  <div id="wrapper">
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <!--<section id="main_content" class="inner">-->
+    <!-- Main -->
+    <div id="main">
+    
         {{ content }}
-      <!--</section>-->
+
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
-    </div>
-  </body>
+    <!-- Footer -->
+    <section id="footer">
+      <div class="container">
+<!--        <ul class="copyright">
+          <li>One </li>
+          <li>Two</li>
+          <li>Three</li>
+        </ul>-->
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.scrollzer.min.js"></script>
+  <script src="assets/js/jquery.scrolly.min.js"></script>
+  <script src="assets/js/skel.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
 </html>

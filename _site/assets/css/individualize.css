@@ -1,0 +1,11 @@
+td {
+    vertical-align: top;
+}    
+
+div.textalign-justify{
+    text-align: justify;
+}
+
+div.textalign-normal{
+    text-align: left;
+}
