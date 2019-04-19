@@ -1597,7 +1597,7 @@
 	}
 
 	p {
-		margin: 0 0 2.25em 0;
+		margin: 0 0 1.0em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2635,16 +2635,16 @@
 			border-top: 0;
 		}
 
-/* One */
+/* Banner image */
 
-	#one:before {
-		background-image: url("../../images/banner.jpg");
+	#start:before {
+		background-image: url("../../images/banner.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 3em;
 		width: 100%;
 	}
 
@@ -2822,7 +2822,7 @@
 
 		/* One */
 
-			#one:before {
+			#start:before {
 				height: 10em;
 			}
 
@@ -3025,7 +3025,7 @@
 
 		/* One */
 
-			#one:before {
+			#start:before {
 				height: 7em;
 			}
 
