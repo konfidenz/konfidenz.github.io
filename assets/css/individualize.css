@@ -19,3 +19,8 @@ a:hover#logolink {
     text-decoration: none;
     border-width: 0;
 }
+
+section {
+    background: url('/images/hr.png') no-repeat top;
+    background-size: 100% 9px;
+}   
