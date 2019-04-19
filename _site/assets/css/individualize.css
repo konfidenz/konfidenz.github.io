@@ -13,3 +13,9 @@ div.textalign-normal{
 a#logolink{
     color: white;
 }
+
+a:hover#logolink {
+    color: grey;
+    text-decoration: none;
+    border-width: 0;
+}
