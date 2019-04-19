@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Key publications
 # Set the display order for this section
 order: 3
 color: white
