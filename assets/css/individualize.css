@@ -9,3 +9,7 @@ div.textalign-justify{
 div.textalign-normal{
     text-align: left;
 }
+
+a#logolink{
+    color: white;
+}
