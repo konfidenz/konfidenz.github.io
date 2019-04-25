@@ -2637,7 +2637,7 @@
 
 /* Banner image */
 
-	#start:before {
+/*	#start:before {
 		background-image: url("../../images/banner.png");
 		background-position: top right;
 		background-repeat: no-repeat;
@@ -2646,7 +2646,7 @@
 		display: block;
 		height: 3em;
 		width: 100%;
-	}
+	}*/
 
 /* Footer */
 
