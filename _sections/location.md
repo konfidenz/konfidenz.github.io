@@ -8,6 +8,6 @@ include: section.html
 ---
 ## Find us
 
-We are located at the Charité Universitätsmedizin Berlin, Department of Psychiatry and Psychotherapy, Campus Mitte.
+We are located at the Charité Universitätsmedizin Berlin, Department of Psychiatry and Psychotherapy, Campus Mitte, 10117 Berlin.
 
-**Address:** [Rahel-Hirsch-Weg 5](https://www.charite.de/service/lageplan/plan/map/ccm_rahel_hirsch_weg_5/){:target='\_blank'} (Campus address), 10117 Berlin
+**Address:** [Rahel-Hirsch-Weg 5](https://www.charite.de/service/lageplan/plan/map/ccm_rahel_hirsch_weg_5/){:target='\_blank'} (Campus address), Room 02-010.
