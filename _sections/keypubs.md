@@ -19,3 +19,5 @@ Sebold M, Nebe S, Garbusow M, **Guggenmos M**, Schad DJ, Beck A, Kuitunen P-S, S
 <!-- **Sterzer P**, Adam RA, Fletcher P, Frith C, Lawrie SM, Muckli L, Petrovic P, Uhlhaas P, Voss M & Corlett PR (2018). The Predictive Coding Account of Psychosis. _Biological Psychiatry_ 849: 634–643. [10.1016/j.biopsych.2018.05.015](https://doi.org/10.1016/j.biopsych.2018.05.015){:target='\_blank'} -->
 
 Ostwald D, Spitzer B, **Guggenmos M**, Schmidt TT, Kiebel SJ & Blankenburg F (2012). Evidence for neural encoding of Bayesian surprise in human somatosensation. _NeuroImage_ 62: 177–88. [10.1016/j.neuroimage.2012.04.050](https://dx.doi.org/10.1016/j.neuroimage.2012.04.050){:target='\_blank'}
+
+See [here](https://scholar.google.com/citations?user=QOa7WqcAAAAJ){:target='\_blank'} for a full list of publications.
