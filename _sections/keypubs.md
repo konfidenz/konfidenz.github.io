@@ -22,4 +22,4 @@ Ostwald D, Spitzer B, **Guggenmos M**, Schmidt TT, Kiebel SJ & Blankenburg F (20
 
 <br>
 
-See [here](https://scholar.google.com/citations?user=QOa7WqcAAAAJ){:target='\_blank'} for a full list of publications.
+See [Google Scholar](https://scholar.google.com/citations?user=QOa7WqcAAAAJ){:target='\_blank'} for a full list of publications.
