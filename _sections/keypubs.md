@@ -12,7 +12,7 @@ include: section.html
 
 **Guggenmos M** & **Sterzer P** (2017). A confidence-based reinforcement learning model for perceptual learning. _BioRxiv_. [10.1101/136903](https://doi.org/10.1101/136903){:target='\_blank'}
 
-**Varrier RS, Stuke H, **Guggenmos M**, **Sterzer P** (2019). Sustained effects of corrupted feedback on perceptual inference. _Scientific Reports_ 9: 5537. [10.1038/s41598-019-41954-z](https://dx.doi.org/10.1038/s41598-019-41954-z){:target='\_blank'}
+Varrier RS, Stuke H, **Guggenmos M\***, **Sterzer P\*** (2019). Sustained effects of corrupted feedback on perceptual inference. _Scientific Reports_ 9: 5537. [10.1038/s41598-019-41954-z](https://dx.doi.org/10.1038/s41598-019-41954-z){:target='\_blank'}
 
 
 **Guggenmos M**, **Sterzer P** & Cichy RM (2018). Multivariate pattern analysis for MEG: a comparison of dissimilarity measures. _NeuroImage_ 173: 434–447. [10.1016/j.neuroimage.2018.02.044](https://dx.doi.org/10.1016/j.neuroimage.2018.02.044){:target='\_blank'}
@@ -22,6 +22,10 @@ Sebold M, Nebe S, Garbusow M, **Guggenmos M**, Schad DJ, Beck A, Kuitunen P-S, S
 <!-- **Sterzer P**, Adam RA, Fletcher P, Frith C, Lawrie SM, Muckli L, Petrovic P, Uhlhaas P, Voss M & Corlett PR (2018). The Predictive Coding Account of Psychosis. _Biological Psychiatry_ 849: 634–643. [10.1016/j.biopsych.2018.05.015](https://doi.org/10.1016/j.biopsych.2018.05.015){:target='\_blank'} -->
 
 Ostwald D, Spitzer B, **Guggenmos M**, Schmidt TT, Kiebel SJ & Blankenburg F (2012). Evidence for neural encoding of Bayesian surprise in human somatosensation. _NeuroImage_ 62: 177–88. [10.1016/j.neuroimage.2012.04.050](https://dx.doi.org/10.1016/j.neuroimage.2012.04.050){:target='\_blank'}
+
+<br>
+
+\* shared authorship
 
 <br>
 
