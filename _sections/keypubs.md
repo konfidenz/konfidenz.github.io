@@ -12,6 +12,9 @@ include: section.html
 
 **Guggenmos M** & **Sterzer P** (2017). A confidence-based reinforcement learning model for perceptual learning. _BioRxiv_. [10.1101/136903](https://doi.org/10.1101/136903){:target='\_blank'}
 
+**Varrier RS, Stuke H, **Guggenmos M**, **Sterzer P** (2019). Sustained effects of corrupted feedback on perceptual inference. _Scientific Reports_ 9: 5537. [10.1038/s41598-019-41954-z](https://dx.doi.org/10.1038/s41598-019-41954-z){:target='\_blank'}
+
+
 **Guggenmos M**, **Sterzer P** & Cichy RM (2018). Multivariate pattern analysis for MEG: a comparison of dissimilarity measures. _NeuroImage_ 173: 434–447. [10.1016/j.neuroimage.2018.02.044](https://dx.doi.org/10.1016/j.neuroimage.2018.02.044){:target='\_blank'}
 
 Sebold M, Nebe S, Garbusow M, **Guggenmos M**, Schad DJ, Beck A, Kuitunen P-S, Sommer C, Neu P, Zimmermann US, Rapp MA, Smolka MN, Huys QJM, Schlagenhauf F & Heinz A (2017). When habits are dangerous - Alcohol expectancies and habitual decision-making predict relapse in alcohol dependence. _Biological Psychiatry_ 82: 846-856. [10.1016/j.biopsych.2017.04.019](https://dx.doi.org/10.1016/j.biopsych.2017.04.019){:target='\_blank'}
