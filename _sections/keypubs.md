@@ -19,7 +19,7 @@ Varrier RS, Stuke H, **Guggenmos M\***, **Sterzer P\*** (2019). Sustained effect
 
 **Guggenmos M**, **Sterzer P** & Cichy RM (2018). Multivariate pattern analysis for MEG: a comparison of dissimilarity measures. _NeuroImage_ 173: 434–447. [10.1016/j.neuroimage.2018.02.044](https://dx.doi.org/10.1016/j.neuroimage.2018.02.044){:target='\_blank'}
 
-Sebold M, Nebe S, Garbusow M, **Guggenmos M**, Schad DJ, Beck A, Kuitunen P-S, Sommer C, Neu P, Zimmermann US, Rapp MA, Smolka MN, Huys QJM, Schlagenhauf F & Heinz A (2017). When habits are dangerous - Alcohol expectancies and habitual decision-making predict relapse in alcohol dependence. _Biological Psychiatry_ 82: 846-856. [pdf](../papers/2017_Biological Psychiatry.pdf)[10.1016/j.biopsych.2017.04.019](https://dx.doi.org/10.1016/j.biopsych.2017.04.019){:target='\_blank'}
+Sebold M, Nebe S, Garbusow M, **Guggenmos M**, Schad DJ, Beck A, Kuitunen P-S, Sommer C, Neu P, Zimmermann US, Rapp MA, Smolka MN, Huys QJM, Schlagenhauf F & Heinz A (2017). When habits are dangerous - Alcohol expectancies and habitual decision-making predict relapse in alcohol dependence. _Biological Psychiatry_ 82: 846-856. [pdf](../papers/2017_Biological_Psychiatry.pdf)[10.1016/j.biopsych.2017.04.019](https://dx.doi.org/10.1016/j.biopsych.2017.04.019){:target='\_blank'}
 
 <!-- **Sterzer P**, Adam RA, Fletcher P, Frith C, Lawrie SM, Muckli L, Petrovic P, Uhlhaas P, Voss M & Corlett PR (2018). The Predictive Coding Account of Psychosis. _Biological Psychiatry_ 849: 634–643. [10.1016/j.biopsych.2018.05.015](https://doi.org/10.1016/j.biopsych.2018.05.015){:target='\_blank'} -->
 
