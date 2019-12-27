@@ -8,7 +8,7 @@ include: section.html
 ---
 ## Key publications
 
-Sekutowicz M\*, **Guggenmos M\***, Kuitunen P-S, Garbusow M, Sebold M, Pelz P, Priller J, Wittchen H-U, Smolka MN, Zimmermann U, Heinz A, **Sterzer P**, and Schmack K (2019). Neural Response Patterns During Pavlovian-to-Instrumental Transfer Predict Alcohol Relapse and Young Adult Drinking. _Biological Psychiatry_. [10.1016/j.biopsych.2019.06.028](https://doi.org/10.1016/j.biopsych.2019.06.028){:target='\_blank'}
+Sekutowicz M\*, **Guggenmos M\***, Kuitunen P-S, Garbusow M, Sebold M, Pelz P, Priller J, Wittchen H-U, Smolka MN, Zimmermann U, Heinz A, **Sterzer P**, and Schmack K (2019). _Neural Response Patterns During Pavlovian-to-Instrumental Transfer Predict Alcohol Relapse and Young Adult Drinking_. Biological Psychiatry. [10.1016/j.biopsych.2019.06.028](https://doi.org/10.1016/j.biopsych.2019.06.028){:target='\_blank'}
 
 **Guggenmos M**, Wilbertz G, Hebart MN & **Sterzer P** (2016). Mesolimbic confidence signals guide perceptual learning in the absence of external feedback. _eLife_ 5: 1–19. [10.7554/elife.13388](https://dx.doi.org/10.7554/elife.13388){:target='\_blank'}
 
