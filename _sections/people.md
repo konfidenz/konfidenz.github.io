@@ -15,7 +15,3 @@ include: section.html
 | <br>**[Dr. med. Philipp Sterzer](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/sterzer/)**<br>_Professor_| ![Philipp Sterzer](images/philipp.png){:width="140px"}|
 
 ***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@charite.de) with a short motivation and CV.***
-
-We are located at the Charité University Medicine, Department of Psychiatry and Psychotherapy.
-
-**Address:** [Rahel-Hirsch-Weg 5](https://www.charite.de/service/lageplan/plan/map/ccm_rahel_hirsch_weg_5/){:target='\_blank'} (Campus address), 10117 Berlin
