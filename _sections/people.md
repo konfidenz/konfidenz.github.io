@@ -14,7 +14,7 @@ include: section.html
 | <br>**Laura-Sophia von Hirschhausen, BSc**<br>_student assistant_<br><br>| ![Laura-Sophia von Hirschhausen](images/placeholder.png){:width="140px"}|
 | <br>**[Dr. med. Philipp Sterzer](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/sterzer/)**<br>_Professor_| ![Philipp Sterzer](images/philipp.png){:width="140px"}|
 
-***[29/03/2019] We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@charite.de) with a short motivation and CV.***
+***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@charite.de) with a short motivation and CV.***
 
 We are located at the Charité University Medicine, Department of Psychiatry and Psychotherapy.
 
