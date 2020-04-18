@@ -26,6 +26,8 @@ Varrier RS, Rothkirch M, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</i
 
 ##### Methods: multivariate pattern analysis in neural data analysis
 
+Gayet S, <ins>Guggenmos M</ins>, Christophel TB, Haynes J, Paffen CLE, <ins>Sterzer P</ins>, and Stigchel S Van Der (2020). NeuroImage No evidence for mnemonic modulation of interocularly suppressed visual input. [NeuroImage 215, 116801](https://doi.org/10.1016/j.neuroimage.2020.116801){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Gayet_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+
 <ins>Guggenmos M</ins>, Schmack  K, Veer I, Lett L, Sekutowicz M, Sebold M, Garbusow M, Sommer C, Wittchen H-U, Zimmermann U, Smolka M, Walter H, Heinz A & <ins>Sterzer P</ins> (2020). A multimodal neuroimaging classifier for alcohol dependence. Scientific Reports.&nbsp;&nbsp;[](../papers/2020_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 Sekutowicz M\*, <ins>Guggenmos M\*</ins>, Kuitunen P-S, Garbusow M, Sebold M, Pelz P, Priller J, Wittchen H-U, Smolka MN, Zimmermann U, Heinz A, <ins>Sterzer P</ins> & Schmack K (2019). Neural Response Patterns During Pavlovian-to-Instrumental Transfer Predict Alcohol Relapse and Young Adult Drinking. [Biological Psychiatry 86: 857–863](https://doi.org/10.1016/j.biopsych.2019.06.028){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2019_Biological_Psychiatry.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
