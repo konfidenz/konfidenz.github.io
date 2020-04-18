@@ -30,7 +30,10 @@ Gayet S, <ins>Guggenmos M</ins>, Christophel TB, Haynes J, Paffen CLE, <ins>Ster
 
 Gayet S, <ins>Guggenmos M</ins>, Christophel TB, Haynes JD, Paffen CLE, Van Der Stigchel S, and <ins>Sterzer P</ins> (2017). Visual working memory enhances the neural response to matching visual input. [Journal of Neuroscience 37, 6638–6647](10.1523/jneurosci.3418-16.2017){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Gayet_JNeuro.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
-<ins>Guggenmos M</ins>, Schmack  K, Veer I, Lett L, Sekutowicz M, Sebold M, Garbusow M, Sommer C, Wittchen H-U, Zimmermann U, Smolka M, Walter H, Heinz A & <ins>Sterzer P</ins> (2020). A multimodal neuroimaging classifier for alcohol dependence. Scientific Reports.&nbsp;&nbsp;[](../papers/2020_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+<ins>Guggenmos M</ins>, Schmack  K, Veer I, Lett L, Sekutowicz M, Sebold M, Garbusow M, Sommer C, Wittchen H-U, Zimmermann U, Smolka M, Walter H, Heinz A & <ins>Sterzer P</ins> (2020). A multimodal neuroimaging classifier for alcohol dependence. [Scientific Reports 10, 1–12](https://doi.org/10.1038/s41598-019-56923-9){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+
+
+Guggenmos M, Schmack K, Veer IM, Lett T, Sekutowicz M, Sebold M, Garbusow M, Sommer C, Wittchen HU, Zimmermann US, Smolka MN, Walter H, Heinz A, and Sterzer P (2020). A multimodal neuroimaging classifier for alcohol dependence. 
 
 Sekutowicz M\*, <ins>Guggenmos M\*</ins>, Kuitunen P-S, Garbusow M, Sebold M, Pelz P, Priller J, Wittchen H-U, Smolka MN, Zimmermann U, Heinz A, <ins>Sterzer P</ins> & Schmack K (2019). Neural Response Patterns During Pavlovian-to-Instrumental Transfer Predict Alcohol Relapse and Young Adult Drinking. [Biological Psychiatry 86: 857–863](https://doi.org/10.1016/j.biopsych.2019.06.028){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2019_Biological_Psychiatry.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
