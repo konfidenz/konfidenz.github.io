@@ -26,7 +26,7 @@ Varrier RS, Rothkirch M, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</i
 
 ##### Methods: multivariate pattern analysis in neural data analysis
 
-Gayet S, <ins>Guggenmos M</ins>, Christophel TB, Haynes J, Paffen CLE, <ins>Sterzer P</ins>, and Stigchel S Van Der (2020). NeuroImage No evidence for mnemonic modulation of interocularly suppressed visual input. [NeuroImage 215, 116801](https://doi.org/10.1016/j.neuroimage.2020.116801){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Gayet_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+Gayet S, <ins>Guggenmos M</ins>, Christophel TB, Haynes J, Paffen CLE, <ins>Sterzer P</ins>, and Van Der Stigchel S (2020). NeuroImage No evidence for mnemonic modulation of interocularly suppressed visual input. [NeuroImage 215, 116801](https://doi.org/10.1016/j.neuroimage.2020.116801){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Gayet_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <ins>Guggenmos M</ins>, Schmack  K, Veer I, Lett L, Sekutowicz M, Sebold M, Garbusow M, Sommer C, Wittchen H-U, Zimmermann U, Smolka M, Walter H, Heinz A & <ins>Sterzer P</ins> (2020). A multimodal neuroimaging classifier for alcohol dependence. Scientific Reports.&nbsp;&nbsp;[](../papers/2020_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
