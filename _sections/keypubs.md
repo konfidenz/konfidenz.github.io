@@ -20,7 +20,7 @@ include: section.html
 
 Varrier RS, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</ins> (2019). Sustained effects of corrupted feedback on perceptual inference. [Scientific Reports 9: 5537](https://dx.doi.org/10.1038/s41598-019-41954-z){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2019_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
-Varrier RS, Rothkirch M, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</ins> (2019). Unreliable feedback deteriorates information processing in primary visual cortex. [NeuroImage 214, 116701](https://doi.org/10.1016/j.neuroimage.2020.116701){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Varrier_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+Varrier RS, Rothkirch M, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</ins> (2020). Unreliable feedback deteriorates information processing in primary visual cortex. [NeuroImage 214, 116701](https://doi.org/10.1016/j.neuroimage.2020.116701){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2020_Varrier_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <br>
 
