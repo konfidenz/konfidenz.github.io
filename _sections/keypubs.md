@@ -52,9 +52,7 @@ Ostwald D, Spitzer B, <ins>Guggenmos M</ins>, Schmidt TT, Kiebel SJ & Blankenbur
 
 
 
-<br>
 
-\* shared authorship
 
 <br>
 
