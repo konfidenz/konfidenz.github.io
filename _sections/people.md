@@ -8,7 +8,7 @@ include: section.html
 ---
 ## People
 
-| <br>**[Dr. rer. nat. Matthias Guggenmos](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/guggenmos/){:target='\_blank'}**<br>_Junior group leader_<br><br>[E-mail](mailto:matthias.guggenmos@charite.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
+| <br>**[Dr. rer. nat. Matthias Guggenmos](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/guggenmos/){:target='\_blank'}**<br>_Group leader_<br><br>[E-mail](mailto:matthias.guggenmos@charite.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
 | <br>**Isa Steinecker**<br>_PhD student_<br><br>| ![Isa Steinecker](images/isa.png){:width="140px"}|
 | <br>**Lena Esther Ptasczynski**<br>MSc Computational Science<br>_student assistant_<br><br>| ![Lena Esther Ptasczynski](images/placeholder.png){:width="140px"}|
 | <br>**Laura-Sophia von Hirschhausen**<br>BSc Psychology<br>_student assistant_<br><br>| ![Laura-Sophia von Hirschhausen](images/placeholder.png){:width="140px"}|
