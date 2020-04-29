@@ -12,6 +12,9 @@ include: section.html
 | <br>**Isa Steinecker, MSc**<br>_PhD student_<br><br>| ![Isa Steinecker](images/isa.png){:width="140px"}|
 | <br>**Lena Esther Ptasczynski, MSc**<br>_student assistant_<br><br>| ![Lena Esther Ptasczynski](images/placeholder.png){:width="140px"}|
 | <br>**Laura-Sophia von Hirschhausen, BSc**<br>_student assistant_<br><br>| ![Laura-Sophia von Hirschhausen](images/placeholder.png){:width="140px"}|
+| <br>**Hsin-Chen Lee, BSc**<br>_intern_<br><br>| ![Hsin-Chen Lee](images/placeholder.png){:width="140px"}|
+| <br>**Zainab Mohamed\\MSc Computational Neuroscience**<br>_intern_<br><br>| ![Yannik Schmidt](images/placeholder.png){:width="140px"}|
+| <br>**Yannik Schmidt, BSc**<br>_intern_<br><br>| ![Yannik Schmidt](images/placeholder.png){:width="140px"}|
 | <br>**[Dr. med. Philipp Sterzer](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/sterzer/)**<br>_Professor_| ![Philipp Sterzer](images/philipp.png){:width="140px"}|
 
 ***We are open to students interested in internships, lab rotations or master theses. To apply, please write us an [E-mail](mailto:matthias.guggenmos@charite.de) with a short motivation and CV.***
