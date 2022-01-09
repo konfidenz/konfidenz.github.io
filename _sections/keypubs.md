@@ -10,6 +10,9 @@ include: section.html
 
 ##### Learning with internal feedback: confidence-based learning
 
+
+<ins>Ptaczynski E</ins>, Steinecker I, <ins>Sterzer P</ins>, <ins>Guggenmos M</ins> (2021). The value of confidence: Confidence prediction errors drive value-based learning in the absence of external feedback. [PsyArXiv](https://dx.doi.org/10.31234/osf.io/wmv89){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Ptaczynski_PsyArXiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+
 <ins>Guggenmos M</ins>, Wilbertz G, Hebart MN & <ins>Sterzer P</ins> (2016). Mesolimbic confidence signals guide perceptual learning in the absence of external feedback. [eLife 5: 1–19](https://dx.doi.org/10.7554/elife.13388){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <ins>Guggenmos M</ins> & <ins>Sterzer P</ins> (2017). A confidence-based reinforcement learning model for perceptual learning. [BioRxiv](https://doi.org/10.1101/136903){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
