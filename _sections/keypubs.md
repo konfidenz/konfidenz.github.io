@@ -19,6 +19,14 @@ include: section.html
 
 <br>
 
+##### Measuring metacognition
+
+<ins>Guggenmos M</ins> (2021). Measuring metacognitive performance: type 1 performance dependence and test-retest reliability. [Neuroscience of Consciousness 2021: 1](https://doi.org/10.1093/nc/niab040){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Guggenmos_Neuroscience_of_Consciousness.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+
+<ins>Guggenmos M</ins> (2021). Reverse engineering of metacognition. [BioRxiv](https://doi.org/10.1101/2021.10.10.463812){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Guggenmos_BiorXiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+
+<br>
+
 ##### Learning with external feedback
 
 Varrier RS, Stuke H, <ins>Guggenmos M\*</ins> & <ins>Sterzer P\*</ins> (2019). Sustained effects of corrupted feedback on perceptual inference. [Scientific Reports 9: 5537](https://dx.doi.org/10.1038/s41598-019-41954-z){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2019_Scientific_Reports.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
