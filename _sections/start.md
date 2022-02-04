@@ -13,4 +13,4 @@ include: section.html
 
 Our goal is to establish this potential novel form of learning using psychophycsical, physiolgical and neuroimaging measurements. To understand the mechanisms of confidence-based learning, we devise computational models and test them through simulation and data-driven model comparison.
 
-This group is supported by the [Deutsche Forschungsgemeinschaft (DFG)](http://gepris.dfg.de/gepris/projekt/403630675?language=en){:target='\_blank'} and hosted by the [Visual Perception Lab](https://psychiatrie-psychotherapie.charite.de/en/research/neuroimaging_and_neurotechnology/visual_perception_lab/){:target='\_blank'} at the Charité Universitätsmedizin Berlin.
+This group is supported by the [Deutsche Forschungsgemeinschaft (DFG)](http://gepris.dfg.de/gepris/projekt/403630675?language=en){:target='\_blank'}.
