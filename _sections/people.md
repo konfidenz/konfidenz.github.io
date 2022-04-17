@@ -8,7 +8,7 @@ include: section.html
 ---
 ## People
 
-| <br>**[Dr. rer. nat. Matthias Guggenmos](https://psychiatrie-psychotherapie.charite.de/en/metas/person_detail/person/address_detail/guggenmos/){:target='\_blank'}**<br>_Group leader_<br><br>[E-mail](mailto:matthias.guggenmos@health-and-medical-university.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
+| <br>**[Dr. rer. nat. Matthias Guggenmos](https://www.health-and-medical-university.de/universitaet/unser-team/team-fakultaet-gesundheit/professoren/prof-dr-matthias-guggenmos/){:target='\_blank'}**<br>_Group leader_<br><br>[E-mail](mailto:matthias.guggenmos@health-and-medical-university.de) | ![Matthias Guggenmos](images/matthias.png){:width="140px"} |
 | <br>**Barbora Wolf**<br>_student assistant_<br><br>| ![Barbora Wolf](images/placeholder.png){:width="140px"}|
 | <br>**Laura Ullmann**<br>_student assistant_<br><br>| ![Laura Ullmann](images/placeholder.png){:width="140px"}|
 | <br>**Lena Esther Ptasczynski**<br>MSc Computational Science<br>_student assistant_<br><br>| ![Lena Esther Ptasczynski](images/placeholder.png){:width="140px"}|
