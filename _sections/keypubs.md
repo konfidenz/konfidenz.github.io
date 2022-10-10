@@ -15,7 +15,7 @@ include: section.html
 
 <ins>Guggenmos M</ins>, Wilbertz G, Hebart MN & <ins>Sterzer P</ins> (2016). Mesolimbic confidence signals guide perceptual learning in the absence of external feedback. [eLife 5: 1–19](https://dx.doi.org/10.7554/elife.13388){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2016_Guggenmos_etal_eLife.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
-<ins>Guggenmos M</ins> & <ins>Sterzer P</ins> (2017). A confidence-based reinforcement learning model for perceptual learning. [RLDM 2017: Paper M94](https://rldm.org/talk-and-poster-abstracts/){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_RLDM17.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}.&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;[BioRxiv](https://doi.org/10.1101/136903){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+<ins>Guggenmos M</ins> & <ins>Sterzer P</ins> (2017). A confidence-based reinforcement learning model for perceptual learning. [RLDM 2017: Paper M94](https://rldm.org/talk-and-poster-abstracts/){:target='\_blank'}&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_RLDM17.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}.&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;.&nbsp;&nbsp;[BioRxiv](https://doi.org/10.1101/136903){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <br>
 
