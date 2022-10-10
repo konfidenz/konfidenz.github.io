@@ -2,13 +2,13 @@
 <svg
    inkscape:export-ydpi="200.06633"
    inkscape:export-xdpi="200.06633"
-   inkscape:export-filename="/home/matteo/OneDrive/manuscripts/ReMeta/img/striking_snake.png"
+   inkscape:export-filename="logo.png"
    sodipodi:docname="logo.svg"
    inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
    id="svg1738"
    version="1.1"
-   viewBox="0 0 192.4606 170.20008"
-   height="170.20007mm"
+   viewBox="0 0 192.4606 150.0638"
+   height="150.0638mm"
    width="192.46059mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -443,8 +443,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2942025"
-     inkscape:cx="186.6014"
-     inkscape:cy="310.616"
+     inkscape:cx="163.80744"
+     inkscape:cy="271.98217"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -474,14 +474,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(273.20691,134.70169)">
+     transform="translate(273.20691,124.54976)">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.358897;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.336998;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9165"
        width="192.46059"
-       height="170.20007"
+       height="150.0638"
        x="-273.20691"
-       y="-134.70169" />
+       y="-124.54976" />
     <image
        width="96.043747"
        height="105.83334"
