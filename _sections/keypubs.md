@@ -11,7 +11,7 @@ include: section.html
 ##### Learning with internal feedback: confidence-based learning
 
 
-<ins>Ptaczynski E</ins>, Steinecker I, <ins>Sterzer P</ins>, <ins>Guggenmos M</ins> (2021). The value of confidence: Confidence prediction errors drive value-based learning in the absence of external feedback. [PsyArXiv](https://dx.doi.org/10.31234/osf.io/wmv89){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Ptaczynski_PsyArXiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+<ins>Ptaczynski E</ins>, Steinecker I, <ins>Sterzer P</ins>, <ins>Guggenmos M</ins> (2022). The value of confidence: Confidence prediction errors drive value-based learning in the absence of external feedback. [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010580){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2022_Ptaczynski_PLOS_Computational_Biology.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <ins>Guggenmos M</ins>, Wilbertz G, Hebart MN & <ins>Sterzer P</ins> (2016). Mesolimbic confidence signals guide perceptual learning in the absence of external feedback. [eLife 5: 1–19](https://dx.doi.org/10.7554/elife.13388){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2017_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
@@ -23,7 +23,7 @@ include: section.html
 
 <ins>Guggenmos M</ins> (2021). Measuring metacognitive performance: type 1 performance dependence and test-retest reliability. [Neuroscience of Consciousness 2021: 1](https://doi.org/10.1093/nc/niab040){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Guggenmos_Neuroscience_of_Consciousness.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
-<ins>Guggenmos M</ins> (2021). Reverse engineering of metacognition. [BioRxiv](https://doi.org/10.1101/2021.10.10.463812){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2021_Guggenmos_BiorXiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+<ins>Guggenmos M</ins> (2022). Reverse engineering of metacognition. [eLife 11:e75420](https://doi.org/10.7554/eLife.75420){:target='\_blank'}.&nbsp;&nbsp;[](../papers/2022_Guggenmos_eLife.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 <br>
 

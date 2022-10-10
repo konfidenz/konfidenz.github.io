@@ -12,4 +12,4 @@ We are located at
 
 1) Health and Medical University Potsdam (HMU), Olympischer Weg 1, 14471 Potsdam
 
-2) Charité – Universitätsmedizin Beinrl, Department of Psychiatry and Neurosciences, Campus Mitte, 10117 Berlin
+2) Charité – Universitätsmedizin Berlin, Department of Psychiatry and Neurosciences, Campus Mitte, 10117 Berlin
