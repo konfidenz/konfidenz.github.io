@@ -11,7 +11,7 @@ include: section.html
 ##### Learning with internal feedback: confidence-based learning
 
 
-Ptaczynski E, Steinecker I, Sterzer P, Guggenmos M (2022). The value of confidence: Confidence prediction errors drive value-based learning in the absence of external feedback. [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010580){:target='\_blank'}&nbsp;&nbsp;[](../papers/2022_Ptaczynski_etal_PLOSComputationalBiology.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+Ptaczynski E, Steinecker I, Sterzer P, Guggenmos M (2022). The value of confidence: Confidence prediction errors drive value-based learning in the absence of external feedback. [PLOS Computational Biology 18(10): e1010580](https://doi.org/10.1371/journal.pcbi.1010580){:target='\_blank'}&nbsp;&nbsp;[](../papers/2022_Ptaczynski_etal_PLOSComputationalBiology.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 Guggenmos M & Sterzer P (2017). A confidence-based reinforcement learning model for perceptual learning. [RLDM 2017: Paper M94](https://rldm.org/talk-and-poster-abstracts/){:target='\_blank'}&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_RLDM17.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}&nbsp;&nbsp;&nbsp;[BioRxiv](https://doi.org/10.1101/136903){:target='\_blank'}&nbsp;&nbsp;[](../papers/2017_Guggenmos_Sterzer_BioRxiv.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
