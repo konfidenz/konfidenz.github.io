@@ -61,10 +61,6 @@ Sebold M, Nebe S, Garbusow M, Guggenmos M, Schad DJ, Beck A, Kuitunen P-S, Somme
 Ostwald D, Spitzer B, Guggenmos M, Schmidt TT, Kiebel SJ & Blankenburg F (2012). Evidence for neural encoding of Bayesian surprise in human somatosensation. [NeuroImage 62: 177–88](10.1016/j.neuroimage.2012.04.050){:target='\_blank'}&nbsp;&nbsp;[](../papers/2012_Ostwald_etal_NeuroImage.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 
-
-
-
-
 <br>
 
 See [Google Scholar](https://scholar.google.com/citations?user=QOa7WqcAAAAJ){:target='\_blank'} for a full list of publications.
