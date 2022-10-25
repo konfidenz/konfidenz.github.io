@@ -21,7 +21,7 @@ Guggenmos M, Wilbertz G, Hebart MN & Sterzer P (2016). Mesolimbic confidence sig
 
 ##### Measuring metacognition
 
-Guggenmos M (2022). Reverse engineering of metacognition. [eLife 11:e75420](https://doi.org/10.7554/eLife.75420){:target='\_blank'}&nbsp;&nbsp;[](../papers/2022_Guggenmos_eLife.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
+Guggenmos M (2022). Reverse engineering of metacognition. [eLife 11: e75420](https://doi.org/10.7554/eLife.75420){:target='\_blank'}&nbsp;&nbsp;[](../papers/2022_Guggenmos_eLife.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
 Guggenmos M (2021). Measuring metacognitive performance: type 1 performance dependence and test-retest reliability. [Neuroscience of Consciousness 2021: 1](https://doi.org/10.1093/nc/niab040){:target='\_blank'}&nbsp;&nbsp;[](../papers/2021_Guggenmos_NeuroscienceOfConsciousness.pdf){:class="icon fa-file-pdf-o"}{:target='\_blank'}
 
