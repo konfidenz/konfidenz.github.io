@@ -13,7 +13,7 @@ include: section.html
 | <br>**Isa Steinecker**<br>_Doctoral student_<br><br>| ![Isa Steinecker](images/profile_isa.png){:width="140px"}|
 {% endcomment %}
 | <br>**Denise Kittelmann**<br>_Student assistant_<br><br>[E-mail](mailto:denise.kittelmann@shk.health-and-medical-university.de)| ![Denise Kittelmann](images/profile_denise.png){:width="140px"}|
-| <br>**Barbora Wolf**<br>_Student assistant_<br><br>[E-mail](mailto:barbora.wolf@fu-berlin.de)| ![Barbora Wolf](images/profile_babora.png){:width="140px"}|
+| <br>**Barbora Wolf**<br>_Student assistant_<br><br>[E-mail](mailto:barbora.wolf@fu-berlin.de)| ![Barbora Wolf](images/profile_barbora.png){:width="140px"}|
 | <br>**Marek Němeček**<br>_Student assistant_<br><br>[E-mail](mailto:marek.nemecek@shk.health-and-medical-university.de)| ![Marek Němeček](images/profile_marek.png){:width="140px"}|
 | <br>**Elena Korchagina**<br>_Lab rotation student_<br><br>| ![Elena Korchagina](images/profile_elena.png){:width="140px"}|
 | <br>**Cheyenne Cavender**<br>_Intern_<br><br>| ![Cheyenne Cavender](images/placeholder.png){:width="140px"}|
